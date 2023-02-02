@@ -1,10 +1,8 @@
-### Hi there 👋
-
-<!--
-**p4anu/p4anu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hello my name is Miguel Angel De Zan, but I like the nickname "p4anu".
+Software Developer from Argentina
+I am a Therapeutic Companion (mental health area - Colegio de Psicólogos Rosario).
+I study Software Development at the Instituto C. Marcó in Entre Ríos (Argentina)
+You can email me at miguelangel.dezan@gmail.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
