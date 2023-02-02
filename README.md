@@ -1,4 +1,4 @@
-<h1 align="center">Hello my name is Miguel Angel De Zan, but I like the nickname "p4anu":blush:</h1>
+<h1 align="center">Hello my name is Miguel Angel De Zan, but I like the nickname "p4anu" &#128077</h1>
 
 <div align="center">
 <h2>Developer from Argentina</h1>
