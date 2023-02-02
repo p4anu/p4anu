@@ -11,9 +11,9 @@
 
 📧 You can email me at miguelangel.dezan@gmail.com
 
-📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV) or [Linkedin](https://www.linkedin.com/in/arianracca/)
+📄 I will upload my linkedin profile soon (after I update it)... :hourglass:
 
-✨ On my free time I continue to study Java, Python, and JavaScript languages...and 🎮 retro videogames
+✨ On my free time I continue to study Java, Python, and JavaScript languages... and 🎮 retro videogames
 
 </p>
 </div>
